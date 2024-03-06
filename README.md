@@ -2,7 +2,7 @@
 
 ![In-game screenshot of the schematic of the 8BitCLA](image.png)
 
-This repository contains the Verilog schematic for an 8-bit [Carry-Lookahead Adder (CLA)](https://en.wikipedia.org/wiki/Carry-lookahead_adder) created using the game [Turing Complete](https://turingcomplete.game/). This design was created for educational purposes and demonstrates a basic CLA implementation.
+This repository contains the Verilog file for an 8-bit [Carry-Lookahead Adder (CLA)](https://en.wikipedia.org/wiki/Carry-lookahead_adder) created using the game [Turing Complete](https://turingcomplete.game/). This design was created for educational purposes and demonstrates a basic CLA implementation.
 
 ## Features
 
